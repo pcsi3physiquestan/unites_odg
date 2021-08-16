@@ -1,0 +1,6 @@
+format: jb-article
+root: unites_odg.md
+
+sections:
+- file: notebook/unites
+- file: notebook/odg
